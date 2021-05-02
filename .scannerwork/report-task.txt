@@ -1,0 +1,7 @@
+organization=erac03
+projectKey=erac03_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.19558
+dashboardUrl=https://sonarcloud.io/dashboard?id=erac03_mslearn-tailspin-spacegame-web
+ceTaskId=AXj6T2Xcq5OMoRyZxXfq
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXj6T2Xcq5OMoRyZxXfq
